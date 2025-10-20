@@ -196,7 +196,7 @@
             children: [
               (0, o.jsx)(n.A, {
                 size: "lg",
-                href: "https://app.uniswap.org/swap?outputCurrency=0xTBA",
+                href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0xTBA",
                 as: d.default,
                 target: "_blank",
                 color: "default",
@@ -495,12 +495,12 @@
                 //             {
                 //               onPress: () => {
                 //                 window.open(
-                //                   "https://app.uniswap.org/swap?outputCurrency=0xTBA",
+                //                   "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0xTBA",
                 //                   "_blank"
                 //                 );
                 //               },
                 //               description: "Buy on Uniswap",
-                //               href: "https://app.uniswap.org/swap?outputCurrency=0xTBA",
+                //               href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0xTBA",
                 //               as: n.O,
                 //               target: "_blank",
                 //               className: "text-default-foreground",
@@ -679,7 +679,7 @@
             //                     );
             //                   },
             //                   description: "Buy on Uniswap",
-            //                   href: "https://app.uniswap.org/swap?outputCurrency=0xTBA",
+            //                   href: "https://pancakeswap.finance/swap?inputCurrency=BNB&outputCurrency=0xTBA",
             //                   as: n.O,
             //                   target: "_blank",
             //                   className: "text-default-foreground",
@@ -1384,7 +1384,7 @@
                             (0, o.jsx)(l.A, {
                               size: "lg",
                               color: "default",
-                              href: "https://x.com/MellowMan_erc20/dextoolsapp/status/1825883854437007645?s=46&t=Hmszsv4T1kuLf518_2wn4g",
+                              href: "https://x.com/MellowMan_erc20",
                               as: d.default,
                               target: "_blank",
                               fullWidth: !0,
@@ -1400,7 +1400,7 @@
                             (0, o.jsx)(l.A, {
                               size: "lg",
                               color: "default",
-                              href: "https://dextools.io/token/mellow",
+                              href: "https://dextools.io/token",
                               as: d.default,
                               target: "_blank",
                               fullWidth: !0,
