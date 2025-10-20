@@ -98,12 +98,12 @@
                   className: "none md:block rounded-full",
                   children: "Meme Maker",
                 }),
-                // (0, o.jsx)("a", {
-                //   href: "https://merch.furiesmellow0x69.com/",
-                //   target: "_blank",
-                //   className: "none md:block rounded-full",
-                //   children: "Merch",
-                // }),
+                (0, o.jsx)("a", {
+                  href: "https://linktree.mellowmanofmatt.wtf",
+                  target: "_blank",
+                  className: "none md:block rounded-full",
+                  children: "Linktree",
+                }),
                 // (0, o.jsx)("a", {
                 //   href: "#Socials",
                 //   className: "none md:block rounded-full ".concat(
