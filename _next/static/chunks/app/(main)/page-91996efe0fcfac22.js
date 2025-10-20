@@ -93,7 +93,7 @@
                   children: "Tokenomics",
                 }),
                 (0, o.jsx)("a", {
-                  href: "https://meme.mellowman.wtf",
+                  href: "https://meme.mellowmanofmatt.wtf",
                   target: "_blank",
                   className: "none md:block rounded-full",
                   children: "Meme Maker",
@@ -396,7 +396,7 @@
               children: [
                 (0, o.jsx)(a.A, {
                   size: "lg",
-                  href: "https://meme.mellowman.wtf",
+                  href: "https://meme.mellowmanofmatt.wtf",
                   as: n.O,
                   target: "_blank",
                   color: "default",
@@ -567,13 +567,13 @@
             //     (0, o.jsx)(a.A, {
             //       onPress: () => {
             //         window.open(
-            //           "https://meme.mellowman.wtf",
+            //           "https://meme.mellowmanofmatt.wtf",
             //           "_blank"
             //         );
             //       },
             //       size: "sm",
             //       color: "default",
-            //       href: "https://meme.mellowman.wtf",
+            //       href: "https://meme.mellowmanofmatt.wtf",
             //       as: n.O,
             //       target: "_blank",
             //       radius: "full",
@@ -890,13 +890,13 @@
             //                 {
             //                   onPress: () => {
             //                     window.open(
-            //                       "https://meme.mellowman.wtf",
+            //                       "https://meme.mellowmanofmatt.wtf",
             //                       "_blank"
             //                     );
             //                   },
             //                   className: "text-default-foreground",
             //                   description: "Hyper Volume Bot",
-            //                   href: "https://meme.mellowman.wtf",
+            //                   href: "https://meme.mellowmanofmatt.wtf",
             //                   as: n.O,
             //                   target: "_blank",
             //                   startContent: (0, o.jsx)(m.JO, {
@@ -1112,7 +1112,7 @@
                             {
                               className: "text-default-foreground",
                               description: "Hyper Volume Bot",
-                              href: "https://meme.mellowman.wtf",
+                              href: "https://meme.mellowmanofmatt.wtf",
                               as: n.O,
                               target: "_blank",
                               startContent: (0, o.jsx)(m.JO, {
