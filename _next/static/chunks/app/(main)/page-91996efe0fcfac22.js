@@ -275,7 +275,7 @@
       r(2265),
         (t.default = () =>
           (0, o.jsx)("a", {
-            href: "https://t.me/MellowMan_erc20",
+            href: "https://t.me/MellowManbnb",
             target: "_blank",
             children: (0, o.jsx)(s.JO, {
               icon: "akar-icons:telegram-fill",
@@ -290,7 +290,7 @@
       r(2265),
         (t.default = () =>
           (0, o.jsx)("a", {
-            href: "https://x.com/MellowMan_erc20",
+            href: "https://x.com/MellowManbnb",
             target: "_blank",
             children: (0, o.jsx)(s.JO, {
               icon: "akar-icons:twitter-fill",
@@ -453,13 +453,13 @@
                 //             {
                 //               onPress: () => {
                 //                 window.open(
-                //                   "https://t.me/MellowMan_erc20",
+                //                   "https://t.me/MellowManbnb",
                 //                   "_blank"
                 //                 );
                 //               },
                 //               className: "text-default-foreground",
                 //               description: "Join our TG Community",
-                //               href: "https://t.me/MellowMan_erc20",
+                //               href: "https://t.me/MellowManbnb",
                 //               as: n.O,
                 //               target: "_blank",
                 //               startContent: (0, o.jsx)(m.JO, {
@@ -632,13 +632,13 @@
             //                 {
             //                   onPress: () => {
             //                     window.open(
-            //                       "https://t.me/MellowMan_erc20",
+            //                       "https://t.me/MellowManbnb",
             //                       "_blank"
             //                     );
             //                   },
             //                   className: "text-default-foreground",
             //                   description: "Join our TG Community",
-            //                   href: "https://t.me/MellowMan_erc20",
+            //                   href: "https://t.me/MellowManbnb",
             //                   as: n.O,
             //                   target: "_blank",
             //                   startContent: (0, o.jsx)(m.JO, {
@@ -786,7 +786,7 @@
             //                 {
             //                   onPress: () => {
             //                     window.open(
-            //                       "https://t.me/MellowMan_erc20/HyperRaidBot?startgroup=true&admin",
+            //                       "https://t.me/MellowManbnb/HyperRaidBot?startgroup=true&admin",
             //                       "_blank"
             //                     );
             //                   },
@@ -825,12 +825,12 @@
             //                 {
             //                   onPress: () => {
             //                     window.open(
-            //                       "https://t.me/MellowMan_erc20/MellowManRaidBotSupport",
+            //                       "https://t.me/MellowManbnb/MellowManRaidBotSupport",
             //                       "_blank"
             //                     );
             //                   },
             //                   description: "Join TG Support Group",
-            //                   href: "https://t.me/MellowMan_erc20/MellowManRaidBotSupport",
+            //                   href: "https://t.me/MellowManbnb/MellowManRaidBotSupport",
             //                   as: n.O,
             //                   target: "_blank",
             //                   className: "text-default-foreground",
@@ -953,13 +953,13 @@
             //               //   {
             //               //     onPress: () => {
             //               //       window.open(
-            //               //         "https://t.me/MellowMan_erc20/MellowVolumeBotSupport",
+            //               //         "https://t.me/MellowManbnb/MellowVolumeBotSupport",
             //               //         "_blank"
             //               //       );
             //               //     },
             //               //     className: "text-default-foreground",
             //               //     description: "Join TG Help/Support Group",
-            //               //     href: "https://t.me/MellowMan_erc20/MellowVolumeBotSupport",
+            //               //     href: "https://t.me/MellowManbnb/MellowVolumeBotSupport",
             //               //     as: n.O,
             //               //     target: "_blank",
             //               //     startContent: (0, o.jsx)(m.JO, {
@@ -1023,7 +1023,7 @@
                             {
                               className: "text-default-foreground",
                               description: "@HyperRaidBot",
-                              href: "https://t.me/MellowMan_erc20/HyperRaidBot?startgroup=true&admin",
+                              href: "https://t.me/MellowManbnb/HyperRaidBot?startgroup=true&admin",
                               as: n.O,
                               target: "_blank",
                               startContent: (0, o.jsx)(m.JO, {
@@ -1052,7 +1052,7 @@
                             u.W,
                             {
                               description: "Join TG Support Group",
-                              href: "https://t.me/MellowMan_erc20/MellowManRaidBotSupport",
+                              href: "https://t.me/MellowManbnb/MellowManRaidBotSupport",
                               as: n.O,
                               target: "_blank",
                               className: "text-default-foreground",
@@ -1172,7 +1172,7 @@
                             {
                               className: "text-default-foreground",
                               description: "Join TG Help/Support Group",
-                              href: "https://t.me/MellowMan_erc20/MellowVolumeBotSupport",
+                              href: "https://t.me/MellowManbnb/MellowVolumeBotSupport",
                               as: n.O,
                               target: "_blank",
                               startContent: (0, o.jsx)(m.JO, {
@@ -1384,7 +1384,7 @@
                             (0, o.jsx)(l.A, {
                               size: "lg",
                               color: "default",
-                              href: "https://x.com/MellowMan_erc20",
+                              href: "https://x.com/MellowManbnb",
                               as: d.default,
                               target: "_blank",
                               fullWidth: !0,
